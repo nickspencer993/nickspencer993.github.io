@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="styles.css" />
 
 body {
-    background: [yellow];
+    background: [beige];
     font-family: Arial, Helvetica, sans-serif;
     }
     h1 {
@@ -13,7 +13,7 @@ body {
         display: flex;
         padding: 10px;
         margin: 10px;
-        background: [greenyellow];
+        background: [beige];
         }
         .assign img {
         width: 200px;
