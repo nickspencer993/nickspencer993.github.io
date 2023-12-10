@@ -19,7 +19,6 @@ body {
         width: 200px;
         padding: 10px;
         }
-<head>
 
 .assign {
  border-radius: 20px; /* curved corners */
@@ -66,3 +65,6 @@ a {
  margin: 10px;
  border: 2px dotted yellow;
 }
+
+<head>
+
